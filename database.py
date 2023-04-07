@@ -1,7 +1,6 @@
 import os
 import streamlit_authenticator as stauth
 from deta import Deta  # pip install deta
-from dotenv import load_dotenv  # pip install python-dotenv
 
 
 # Load the environment variables
