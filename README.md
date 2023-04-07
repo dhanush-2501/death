@@ -1,11 +1,13 @@
 # death
 
 # User Information
-## Please fill out the following information to the best of your knowledge:
+Please fill out the following information to the best of your knowledge:
 
-## Age: Enter your age in years. For example, 25.
+## Age:  
+Enter your age in years. For example, 25.
 
-## Sex: Select your sex from the following options: Male, Female, Other.
+## Sex:  
+Select your sex from the following options: Male, Female, Other.
 
 ## Highest Qualification: 
 - Illiterate-0,
@@ -32,15 +34,20 @@
 - No Disability-0 
 - (Others--7 :used in First & Second updation Survey only: details for Codes 0 to 6 remained same during the First & Second updation Survey ) 
   
-## Is Water Filter Available?: Select whether a water filter is available at your place of residence or not from the following options: Yes, No.
+## Is Water Filter Available?:  
+Select whether a water filter is available at your place of residence or not from the following options: Yes, No.
 
-## Chew: Select whether you chew tobacco or not from the following options: Yes, No.
+## Chew:  
+Select whether you chew tobacco or not from the following options: Yes, No.
 
-## Smoke: Select whether you smoke or not from the following options: Yes, No.
+## Smoke: 
+Select whether you smoke or not from the following options: Yes, No.
 
-## Alcohol: Select whether you drink alcohol or not from the following options: Yes, No.
+## Alcohol: 
+Select whether you drink alcohol or not from the following options: Yes, No.
 
-# Treatment Source: Select the source from which you would seek medical treatment from the following options
+# Treatment Source: 
+## Select the source from which you would seek medical treatment from the following options
 - Government Sub Center-01,
 - Government PHC-02, 
 - Government CHC-03,     
