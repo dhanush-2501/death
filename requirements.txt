@@ -132,7 +132,7 @@ pycparser==2.21
 pydeck==0.8.0
 pyflakes==3.0.1
 Pygments==2.14.0
-PyInstaller==3.4
+PyInstaller==3.6
 PyJWT==2.6.0
 Pympler==1.0.1
 pyparsing==3.0.9
