@@ -17,7 +17,7 @@ for un, name, pw in zip(usernames, names, hashed_passwords):
     user_dict = {"name":name,"password":pw}
     credentials["usernames"].update({un:user_dict})
 
-authenticator = stauth.Authenticate(credentials, "death_clock", "abcdef", 3, ["abc@gmail.com"])
+authenticator = stauth.Authenticate(credentials, "death_clock", "abcdef", 3, "abc@gmail.com")
 
 name, authentication_status, username = authenticator.login('Login', 'main')
 
