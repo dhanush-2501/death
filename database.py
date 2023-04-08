@@ -3,13 +3,9 @@ import streamlit_authenticator as stauth
 from deta import Deta  # pip install deta
 
 
-# Load the environment variables
-
-DETA_KEY = "d0jg2qpgu33_xzNNgZcz1ZBM1WMDTXta3uuq6zzqVZKj"
-
 
 # Initialize with a project key
-deta = Deta(DETA_KEY)
+deta = Deta(st.secrets['data_key'])
 
 # This is how to create/connect a database
 db = deta.Base("users_db")
