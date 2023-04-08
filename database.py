@@ -1,6 +1,8 @@
 import os
+import streamlit as st
 import streamlit_authenticator as stauth
 from deta import Deta  # pip install deta
+
 
 
 
