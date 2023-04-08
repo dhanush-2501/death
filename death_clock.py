@@ -53,7 +53,6 @@ def death_clock():
     
 
     if submitted:
-        st.write(age, sex,rural,disability_sts,is_water_quality,chew,smoke,alcohol)
         res = make_prediction(sex, highest_qualification, rural, disability_sts, is_water_quality, chew, smoke, alcohol, treatment_src)
         
         st.write("Predicted years", res[0])
