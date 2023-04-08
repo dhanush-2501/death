@@ -1,5 +1,5 @@
 deta==1.1.0
 numpy==1.23.5
-python-dotenv==1.0.0
+xgboost==1.7.5
 streamlit==1.21.0
 streamlit_authenticator==0.2.1
